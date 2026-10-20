@@ -1,0 +1,7 @@
+cran.all.1400
+cran.qry
+cranqrel
+cranqrel.readme
+output*.txt
+__pycache__/
+.DS_Store
